@@ -1,0 +1,37 @@
+# ── Compiled binaries ─────────────────────────────────────
+*.exe
+*.out
+spoti-server
+
+# ── Object files ──────────────────────────────────────────
+*.o
+*.obj
+
+# ── Build directories ─────────────────────────────────────
+build/
+bin/
+out/
+
+# ── IDE and editor files ──────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# ── Windows system files ──────────────────────────────────
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ── macOS system files ────────────────────────────────────
+.DS_Store
+.AppleDouble
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+
+# ── Keep the CSV database but ignore backups ──────────────
+data/*.bak

@@ -146,16 +146,3 @@ songs.csv (persistent storage)
       ▼
 Browser renders HTML table
 ```
-
----
-
-## Submitted By
-
-| Name | USN |
-|------|-----|
-| Akshat N Patil | 01JST24UIS008 |
-| Anaghaa Bhat | 01JST24UIS015 |
-
-**Supervisor:** Ms. Anusha R S, Assistant Professor, Dept. of IS&E, JSSS&T University, Mysuru.
-
-**Academic Year:** 2025-26
